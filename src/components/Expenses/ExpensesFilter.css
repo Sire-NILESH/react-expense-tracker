@@ -1,11 +1,12 @@
 .expenses-filter {
-  color: white;
+  color: rgb(144, 158, 173);
   padding: 0 1rem;
 }
 
 .expenses-filter__control {
   display: flex;
   width: 100%;
+  color: rgb(144, 158, 173);
   align-items: center;
   justify-content: space-between;
   margin: 1rem 0;
@@ -19,6 +20,9 @@
 .expenses-filter select {
   font: inherit;
   padding: 0.5rem 3rem;
+  color: rgb(144, 158, 173);
   font-weight: bold;
-  border-radius: 6px;
+  border-radius: 15px;
+  background: #e2d7ea;
+  box-shadow: 40px 40px 80px #aca3b2, -40px -40px 80px #ffffff;
 }
