@@ -15,7 +15,8 @@
 
 .new-expense__control input {
   font: inherit;
-  color: rgb(162, 168, 113);
+  /* color: rgb(162, 168, 113); */
+  color: #aa9ed4;
   padding: 0.5rem;
   border-radius: 6px;
   border: 1px solid #ccc;

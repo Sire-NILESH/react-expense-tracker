@@ -4,6 +4,8 @@
   width: 50rem;
   max-width: 95%;
   border-radius: 25px;
+  /* background: #e2d7ea;
+  box-shadow: 20px 20px 60px #a79fad, -20px -20px 60px #ffffff; */
   background: #e2d7ea;
-  box-shadow: 20px 20px 60px #a79fad, -20px -20px 60px #ffffff;
+  box-shadow: 8px 8px 16px #d3bedd, -8px -8px 16px #fff3ff;
 }

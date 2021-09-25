@@ -30,11 +30,11 @@
   font-size: 1rem;
   font-weight: bold;
   color: white;
-  border: 1px solid white;
+  /* border: 1px solid white; */
   padding: 0.5rem;
   border-radius: 12px;
   background: linear-gradient(145deg, #8c98dd, #8267e0);
-  box-shadow: 5px 5px 22px #dac4e0, -5px -5px 22px #fffaff;
+  box-shadow: 5px 5px 22px #dac4e0, -5px -5px 22px #e0bfe0;
 }
 
 @media (min-width: 580px) {
